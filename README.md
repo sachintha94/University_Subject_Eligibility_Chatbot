@@ -49,3 +49,6 @@ I fine-tuned T5-small on my Q&A pairs.
         trainer.train()
 
 Building this chatbot helped me understand how powerful NLP and LLMs are for solving real problems like answering university questions. Fine-tuning the T5 model on my own data made it give accurate and helpful answers for students. I faced challenges like handling different text lengths and cleaning duplicate data, but I learned how to fix them. Overall, I’m proud that my chatbot can save students time and make university information easier to access.
+
+![Capture](https://github.com/user-attachments/assets/c61c6aae-9240-49e3-acc2-404fb675b8f2)
+
